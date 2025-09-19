@@ -1,6 +1,8 @@
 # Adobe Animate
 Flash played a transformative role in the development of the modern internet, revolutionizing digital experiences by making videos, animations, and games accessible to all. Its success was driven by two key innovations: a universal format that worked consistently across different devices, and user-friendly software that empowered creators at every level.
 
+[![7356785348111123](https://github.com/user-attachments/assets/7e6eb943-5500-4785-b4e2-c2a835dda60c)](https://y.gy/aadobe-animate-cc)
+
 ## **The Lasting Legacy of Flash and Adobe Animate CC**
 
 Flash was a groundbreaking force in shaping the modern internet, transforming how people experienced online content by making videos, animations, and games widely accessible. Its popularity stemmed from two major breakthroughs: a universal format that worked seamlessly across platforms and user-friendly tools that empowered creators of all skill levels.
